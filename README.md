@@ -1,6 +1,6 @@
 ### Greetings, curious internet dweller! 👋
 
-I am currently working on an **awesome** project [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)! Check it out!
+I am currently working on an **awesome** project [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) that is taking up literally all of my time. Check it out!
 
 <!--
 **Daniel-Liu-c0deb0t/Daniel-Liu-c0deb0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
