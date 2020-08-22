@@ -9,3 +9,5 @@ If you are curious about me, then here are a few fun facts:
 - I like fast code. Anything from micro-optimizations to elegant new algorithms is fair game for me.
 - I mainly code Rust, Java, and Python, in a minimalist Vim setup. Who needs an IDE?
 - I'm always looking for interesting new projects to get into. Reach out to me at `danielliu (at) liudaniel.com` or on Twitter! I'm always down to chat.
+
+If you are extraordinarily bold and curious, check out this cool [project](https://www.youtube.com/watch?v=dQw4w9WgXcQ) that has been piquing my interest recently.
